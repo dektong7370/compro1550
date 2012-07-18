@@ -15,5 +15,6 @@ public class HomeWork10 {
         int dollar = price1 / 100;
         int cent = price1 - (dollar * 100);
         System.out.println("a price "+price+" yields value "+dollar+" dollars and "+cent+" cents");
+  
     }
 }
